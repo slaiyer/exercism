@@ -1,0 +1,29 @@
+{
+  "binaries": [],
+  "examples": [],
+  "integration_tests": [
+    {
+      "package_name": "flower_field",
+      "test": {
+        "name": "flower_field",
+        "src_path": "/Users/sid/git/exercism/rust/flower-field/tests/flower_field.rs",
+        "required_features": []
+      },
+      "test_cases": [
+        "cross",
+        "flower_surrounded_by_spaces",
+        "garden_full_of_flowers",
+        "horizontal_line",
+        "horizontal_line_flowers_at_edges",
+        "large_garden",
+        "no_columns",
+        "no_flowers",
+        "no_rows",
+        "space_surrounded_by_flowers",
+        "vertical_line",
+        "vertical_line_flowers_at_edges"
+      ]
+    }
+  ],
+  "unit_tests": []
+}
